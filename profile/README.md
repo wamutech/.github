@@ -7,3 +7,5 @@ A protocol and library for building threshold signature wallets controlled by mu
 - ⚒️ Proof of Concept (POC) library implementation - Q2/2023.
 
 **NOTE:** Wamu is still in early stages of development, check back over the next few weeks for regular updates.
+
+💬 Twitter: [@davidsemakula](https://twitter.com/davidsemakula).
