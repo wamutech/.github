@@ -8,6 +8,4 @@ A protocol and library for building [threshold signature](https://academy.binanc
 
 **NOTE:** 🚧 Wamu is still in early stages of development, check back over the next few weeks for regular updates.
 
-💬 Twitter: [@davidsemakula](https://twitter.com/davidsemakula).
-
 🌱 Funded by: the [Ethereum Foundation](https://esp.ethereum.foundation/).
