@@ -1,6 +1,6 @@
 # Wamu
 
-A protocol and library for building [threshold signature](https://academy.binance.com/en/articles/threshold-signatures-explained) wallets controlled by multiple [decentralized identities](https://ethereum.org/en/decentralized-identity/).
+A protocol and library for computation of [threshold signatures](https://academy.binance.com/en/articles/threshold-signatures-explained) by multiple [decentralized identities](https://ethereum.org/en/decentralized-identity/).
 
 ## 🚀 Roadmap
 - 📖 [Whitepaper](https://wamu.tech/whitepaper) and [Technical Specification](https://wamu.tech/specification) - ✅.
