@@ -1,6 +1,6 @@
 # Wamu
 
-A protocol and library for computation of [threshold signatures][threshold] by multiple [decentralized identities][did].
+A protocol and library for computation of [threshold signatures][threshold] by multiple [cryptographic identities][did].
 
 ## 🚀 Roadmap
 - 📖 [Whitepaper][whitepaper] and [Technical Specification][spec] - ✅.
