@@ -11,7 +11,7 @@ A protocol and library for computation of [threshold signatures][threshold] by m
 
 🌱 Funded by: the [Ethereum Foundation][EF].
 
-[threshold]: https://en.wikipedia.org/wiki/Threshold_cryptosystem#Methodology
+[threshold]: https://en.wikipedia.org/wiki/Threshold_cryptosystem
 [did]: https://ethereum.org/en/decentralized-identity/#what-are-decentralized-identifiers
 [whitepaper]: https://wamu.tech/whitepaper
 [spec]: https://wamu.tech/specification
